@@ -1,0 +1,10 @@
+{"title": "燃烧", "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg", "time": "2018-05-16(戛纳电影节)", "actor": [" 史蒂文·元 "], "score": "7.9"}
+{"title": "爱你，西蒙", "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.jpg", "time": "2018-03-16(美国)", "actor": [" 乔什·杜哈明 "], "score": "8.3"}
+{"title": "犬之岛", "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518856022.jpg", "time": "2018-02-15(柏林电影节)", "actor": [" 布莱恩·科兰斯顿 "], "score": "8.3"}
+{"title": "暴裂无声", "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg", "time": "2017-07-27(FIRST青年影展)", "actor": [" 姜武 "], "score": "8.2"}
+{"title": "镰仓物语", "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500030418.jpg", "time": "2017-12-09(日本)", "actor": [" 高畑充希 "], "score": "6.8"}
+{"title": "超感猎杀：完结特别篇", "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520264840.jpg", "time": "2018-06-08(美国)", "actor": [" 蒂娜·德赛 "], "score": "9.2"}
+{"title": "信笺故事", "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511250973.jpg", "time": "2018-01-20(圣丹斯电影节)", "actor": [" 劳拉·邓恩 "], "score": "8.2"}
+{"title": "狂暴巨兽", "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516079193.jpg", "time": "2018-04-13(美国)", "actor": [" 娜奥米·哈里斯 "], "score": "6.5"}
+{"title": "头号玩家", "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg", "time": "2018-03-11(西南偏南电影节)", "actor": [" 泰伊·谢里丹 "], "score": "8.7"}
+{"title": "最终幻想女孩", "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497090967.jpg", "time": "2017-10-30(东京电影节)", "actor": [" 渡边大知 "], "score": "7.4"}
